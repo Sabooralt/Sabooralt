@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms using C++**
 
-- 👨‍💻 All of my projects are available at [https://saboordev.netlify.app](https://saboordev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://saboor-five.vercel.app](https://saboor-five.vercel.app)
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJs**
 
-- 📫 How to reach me **abdulsaboormillwala123@gmail.com**
+- 📫 How to reach me **saboordevelops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
